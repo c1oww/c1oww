@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c1oww
 - 👀 I’m interested in clowns
-- 🌱 I’m currently learning mangas
+- 🌱 I’m currently learning HTML,PHP and CSS.
 - 💞️ I’m looking to collaborate on clowwns
 - 📫 How to reach me dark
 
